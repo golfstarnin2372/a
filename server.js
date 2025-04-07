@@ -55,5 +55,5 @@ app.post('/command-done', (req, res) => {
 
 // เริ่ม Server
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+  console.log(`Server is running oกดหดกหดกหn port ${PORT}`);
 });
